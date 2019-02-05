@@ -8,7 +8,7 @@ from gym import spaces
 # Vectors
 import numpy as np
 
-class AerotroponiceEnv(gym.Env):
+class AerotropolisEnv(gym.Env):
 
   def __init__(self):
     self.state = None

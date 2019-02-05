@@ -1,6 +1,6 @@
-# Gym-Aerotroponice
+# Gym-Aerotropolis
 
-Gym-Aerotroponice is a Gym environment for testing recommendation algorithms for Aerotroponice application.
+Gym-Aerotropolis is a Gym environment for testing recommendation algorithms for Aerotropolis application.
 
 <img src="docs/images/rl_framework.png">
 

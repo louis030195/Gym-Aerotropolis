@@ -1,2 +1,2 @@
-"""Aerotroponice Gym Environments."""
-from gym_aerotroponice.envs.aerotroponice_env import AerotroponiceEnv
+"""Aerotropolis Gym Environments."""
+from gym_aerotropolis.envs.aerotropolis_env import AerotropolisEnv
